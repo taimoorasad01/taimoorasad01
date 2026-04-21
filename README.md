@@ -24,7 +24,7 @@
 | [House Price Predictor](https://github.com/taimoorasad01/house-price-predictor) | ML regression comparing Linear vs Random Forest | scikit-learn, pandas |
 | [GWAS VCF Pipeline](https://github.com/taimoorasad01/gwas-vcf-pipeline) | End-to-end VCF processing pipeline | bcftools, tabix, Python |
 | [COVID-19 Dashboard](https://github.com/taimoorasad01/covid-dashboard) | Interactive global dashboard | Streamlit, Plotly |
-
+| [Breast Cancer Classification](https://github.com/taimoorasad01/breast-cancer-classification) | ML classification comparing LR, RF, and SVM | scikit-learn, pandas |
 ---
 
 
